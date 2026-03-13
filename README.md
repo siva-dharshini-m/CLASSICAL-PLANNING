@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+<hr>
+<h2>Name: SIVA DHARSHINI M </h2>
+<hr>
+<h2>Register Number: 212224060253</h2>
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -46,3 +50,7 @@ print(plan)
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+
+<hr>
+<h3>Result:</h3>
+Thus the Implementation of Classical Planning Algorithm is done successfully.
